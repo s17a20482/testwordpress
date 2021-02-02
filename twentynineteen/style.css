@@ -3740,6 +3740,7 @@ body.page .main-navigation {
 --------------------------------------------------------------*/
 .site-header {
   padding: 1em;
+  background-color: red;
 }
 
 .site-header.featured-image {
@@ -5114,6 +5115,10 @@ body.page .main-navigation {
 ## Footer
 --------------------------------------------------------------*/
 /* Site footer */
+#colophon {
+  background-color: red;
+}
+
 #colophon .widget-area,
 #colophon .site-info {
   margin: calc(2 * 1rem) 1rem;
